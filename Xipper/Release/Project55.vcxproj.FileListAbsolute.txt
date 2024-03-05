@@ -1,0 +1,3 @@
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\Release\Project55.vcxproj.AssemblyReference.cache
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\Release\Project55.MyForm.resources
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\Release\Project55.vcxproj.GenerateResource.cache
